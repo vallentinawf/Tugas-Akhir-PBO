@@ -1,0 +1,258 @@
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.exe
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.deps.json
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.runtimeconfig.json
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\ref\Kopilih.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.pdb
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.AssemblyInfo.cs
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\ref\Kopilih.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.pdb
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.genruntimeconfig.cache
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.pdb
+C:\Users\HP\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csproj.CopyComplete
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.exe
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.deps.json
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.runtimeconfig.json
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.runtimeconfig.dev.json
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\ref\Kopilih.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.pdb
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.pdb
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csprojAssemblyReference.cache
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.AssemblyInfoInputs.cache
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.AssemblyInfo.cs
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csproj.CopyComplete
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\ref\Kopilih.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.pdb
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.genruntimeconfig.cache
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\x86\sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\x64\sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SQLite.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SQLite.EF6.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP PC\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.dll.config
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\x86\sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\x64\sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.exe
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.deps.json
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.runtimeconfig.json
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.runtimeconfig.dev.json
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\ref\Kopilih.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Kopilih.pdb
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\EntityFramework.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SQLite.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.CodeDom.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SQLite.EF6.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.pdb
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.dll.config
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csprojAssemblyReference.cache
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.GeneratedMSBuildEditorConfig.editorconfig
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.AssemblyInfoInputs.cache
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.AssemblyInfo.cs
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csproj.CoreCompileInputs.cache
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.csproj.CopyComplete
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\ref\Kopilih.dll
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.pdb
+D:\File Laptop Backup\source\repos\Kopilih\Kopilih\obj\Debug\net5.0\Kopilih.genruntimeconfig.cache
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\x86\sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\x64\sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SQLite.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Data.SQLite.EF6.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\source\repos\Kopilih\Kopilih\bin\Debug\net5.0\KopiLibrary.dll.config
