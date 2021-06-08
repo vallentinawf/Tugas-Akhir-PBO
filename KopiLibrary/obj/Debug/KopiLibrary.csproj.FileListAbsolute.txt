@@ -1,0 +1,36 @@
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\KopiLibrary.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\KopiLibrary.pdb
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.pdb
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\KopiLibrary.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\KopiLibrary.pdb
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.csprojAssemblyReference.cache
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.pdb
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\x86\sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\x64\sqlite3.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\KopiLibrary.dll.config
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.xml
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP PC\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.csproj.CopyComplete
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\x86\sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\x64\sqlite3.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\KopiLibrary.dll.config
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\bin\Debug\System.Data.SQLite.xml
+C:\Users\HP\source\repos\Kopilih\KopiLibrary\obj\Debug\KopiLibrary.csproj.CopyComplete
